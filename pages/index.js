@@ -47,7 +47,7 @@ export default function Home() {
                         services.onDragEnd(result, rows, setRows)
                     }
                 >
-                    <div className="wrapper bg-gray-100 w-3/5 h-4/5 rounded-xl p-10 shadow-xl">
+                    <div className="wrapper bg-gray-100 md:w-3/5 w-full   h-4/5 rounded-xl p-10 shadow-xl">
                         <h2 className="text-3xl font-medium">
                             Write this in English
                         </h2>
